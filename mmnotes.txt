@@ -1,0 +1,15 @@
+probability that a team makes it to; elite eight, final four, finals vs initiial seeding
+trends of teams that dont
+
+try massagin the data (coefficients)
+
+stress test prediction models and then compare 
+
+calculate coeffiction of strength of schedule
+
+test against years since 2010
+
+and compare strongest model vs profits/losses to vegas
+
+
+63 games per tournament
