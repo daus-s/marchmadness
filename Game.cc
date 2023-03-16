@@ -1,3 +1,6 @@
+#include <string>
+#include "Game.h"
+
 Game::Game() {}
 
 Game::Game(std::string teamA, std::string teamB, int scoreA, int scoreB) {
